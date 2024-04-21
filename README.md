@@ -14,7 +14,7 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. It allo
 
 ## Files
 - `index.html`: Contains the HTML structure of the quiz app.
-- `style.css`: Contains the CSS styles for styling the quiz app.
+- `styles.css`: Contains the CSS styles for styling the quiz app.
 - `script.js`: Contains the JavaScript code for the quiz app functionality.
 
 ## Contributing
